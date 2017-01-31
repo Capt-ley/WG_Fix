@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/livingroom"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Living Room" />
+        <item
+            android:id="@+id/studentroom"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Student Room" />
+        <item
+            android:id="@+id/bathroom"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Bathroom" />
+        <item
+            android:id="@+id/kitchen"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Kitchen" />
+
+        <item
+            android:id="@+id/camera"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Camera" />
+
+        <item
+            android:id="@+id/translator"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Translate" />
+
+    </group>
+
+
+</menu>
